@@ -1,9 +1,8 @@
+import { useState } from "react";
+import Cart from "./component/Cart";
 import CategorySection from "./component/CategorySection";
 import CustomerSection from "./component/CustomerSection";
 import DeliverySection from "./component/DeliverySection";
-import Cart from "./component/cart";
-
-import { useState } from "react";
 import Footer from "./component/Footer";
 import FooterBottom from "./component/FooterBottom";
 import HeroSection from "./component/HeroSection";
