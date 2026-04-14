@@ -2,6 +2,8 @@ import { Trash2 } from "lucide-react";
 import { useContext } from "react";
 import { CartContext } from "../context/index";
 
+//test github
+
 export default function CartItem({ item }) {
   const { dispatch } = useContext(CartContext);
 

@@ -2,6 +2,8 @@ import { useContext } from "react";
 import { CartContext } from "../context/index";
 import CartItem from "./CartItem";
 
+//test github
+
 export default function Cart({ onClose }) {
   const { cart } = useContext(CartContext);
 
