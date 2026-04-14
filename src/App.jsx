@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Cart from "./component/Cart";
+
 import CategorySection from "./component/CategorySection";
 import CustomerSection from "./component/CustomerSection";
 import DeliverySection from "./component/DeliverySection";
